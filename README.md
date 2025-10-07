@@ -35,16 +35,16 @@ Our development process was centered around collaboration and empathy. We worked
 
 ### Key Features & Design Philosophy
 
-* **Accessible & Intuitive UI:** The user interface was designed from the ground up for accessibility, featuring large touch targets, simple swipe gestures, a calming color palette to reduce sensory overload, and clear visual and auditory feedback instead of relying on text.
+1. **Accessible & Intuitive UI:** The user interface was designed from the ground up for accessibility, featuring large touch targets, simple swipe gestures, a calming color palette to reduce sensory overload, and clear visual and auditory feedback instead of relying on text.
 
-* **Gamified Assessment Modules:** We transformed each core cognitive test into a delightful mini-game.
+2. **Gamified Assessment Modules:** We transformed each core cognitive test into a delightful mini-game.
     * **Memory Test:** Became a game of matching patterns behind interactive objects.
     * **Pattern Recognition:** Became a puzzle where children complete a sequence of colorful patterns to reveal a surprise animation.
     * **Sequencing & Logic:** Became a task-based adventure, such as helping a character.
 
-* **Adaptive Difficulty Engine:** The app intelligently adjusts the challenge level based on the child's performance in real-time. This prevents frustration and keeps the child in a state of engaged "flow."
+3. **Adaptive Difficulty Engine:** The app intelligently adjusts the challenge level based on the child's performance in real-time. This prevents frustration and keeps the child in a state of engaged "flow."
 
-* **Secure Professional Portal:** While the child experiences a world of play, the app securely collects performance data in the background. This data is synthesized into an easy-to-read dashboard accessible only by the authorized therapist or educator, tracking progress over time with clear visualizations.
+4. **Secure Professional Portal:** While the child experiences a world of play, the app securely collects performance data in the background. This data is synthesized into an easy-to-read dashboard accessible only by the authorized therapist or educator, tracking progress over time with clear visualizations.
 
 ---
 
@@ -52,9 +52,9 @@ Our development process was centered around collaboration and empathy. We worked
 
 We chose a robust and flexible tech stack to bring this vision to life, ensuring a high-quality experience on both iOS and Android.
 
-* **Game Engine:** **Unity** was the core of our development, allowing for rapid prototyping and cross-platform deployment.
-* **Programming Language:** We used **C#** for all game logic, interactions, and data handling.
-* **Backend & Database:** **Firebase** was used for secure user authentication and real-time data storage, powering the professional dashboard.
+1. **Game Engine:** **Unity** was the core of our development, allowing for rapid prototyping and cross-platform deployment.
+2. **Programming Language:** We used **C#** for all game logic, interactions, and data handling.
+3. **Backend & Database:** **Firebase** was used for secure user authentication and real-time data storage, powering the professional dashboard.
 
 ---
 
@@ -62,9 +62,9 @@ We chose a robust and flexible tech stack to bring this vision to life, ensuring
 
 "Project Bright Minds" successfully transformed a high-stress process into a positive and effective experience.
 
-* **Increased Engagement:** In pilot testing, therapists reported a **90% increase in willing participation** from children compared to traditional tabletop methods.
-* **Actionable Data:** The professional portal provided therapists with rich data visualizations, making it **easier and faster to identify areas of strength and challenge** for each child.
-* **Positive User Feedback:** The app received overwhelmingly positive feedback from parents and professionals for its child-centric design and thoughtful approach.
+1. **Increased Engagement:** In pilot testing, therapists reported a **90% increase in willing participation** from children compared to traditional tabletop methods.
+2. **Actionable Data:** The professional portal provided therapists with rich data visualizations, making it **easier and faster to identify areas of strength and challenge** for each child.
+3. **Positive User Feedback:** The app received overwhelmingly positive feedback from parents and professionals for its child-centric design and thoughtful approach.
 
 ### Testimonial
 
